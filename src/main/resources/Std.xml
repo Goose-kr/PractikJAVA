@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<group>
+    <student firstname="Anna" lastname="Krotova" groupNumber="6406">
+        <subject title="It" mark="5"/>
+        <subject title="Managment" mark="3"/>
+        <average>5</average>
+    </student>
+    <student firstname="Pavel" lastname="Prichev" groupNumber="6406">
+        <subject title="Phylosofi" mark="5"/>
+        <subject title="It" mark="3"/>
+        <subject title="INO" mark="2"/>
+    </student>
+    <student firstname="Angelina" lastname="Izmailova" groupNumber="6406">
+        <subject title="chemistry" mark="5"/>
+        <subject title="INO" mark="5"/>
+        <average>5</average>
+    </student>
+    <student firstname="Anatoly" lastname="Krasnykh" groupNumber="6406">
+        <subject title="It" mark="5"/>
+        <subject title="Maths" mark="3"/>
+        <subject title="Physics" mark="4"/>
+        <average>4</average>
+    </student>
+</group>
